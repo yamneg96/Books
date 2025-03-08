@@ -13,7 +13,7 @@ This repository contains a collection of 13 books in PDF format, each accompanie
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/yamneg96/Books
     ```
 2.  **Access the Files:**
     * Use the PDF files in the `books/` directory for viewing or linking to the book content.
